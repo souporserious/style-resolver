@@ -1,0 +1,9 @@
+{
+  "name": "style-resolver",
+  "version": "0.0.1",
+  "description": "Add custom resolutions to your inline styles.",
+  "main": "index.js",
+  "repository": "https://github.com/souporserious/style-resolver",
+  "author": "Travis Arnold",
+  "license": "MIT"
+}
